@@ -1,2 +1,2 @@
 # Vue
-Repositório com aprendizado e exercícios: Vue
+- Repositório com: artigos, aprendizados, exercícios e projetos.
